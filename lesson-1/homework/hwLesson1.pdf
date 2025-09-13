@@ -1,0 +1,30 @@
+1 What is Power BI, and what are its three main components?
+Power BI is a business intelligence tool with Desktop, Service, and Mobile as its three main components.
+2  Name two business use cases for Power BI dashboards.
+Sales performance tracking and financial budget analysis.
+3 How do you download and install Power BI Desktop?
+Download free from the Microsoft Store or Power BI website and install.
+4  What is the difference between Power BI Desktop and Power BI Service?
+Desktop is for building reports, Service is for sharing and collaboration online.
+5  What file extension does a Power BI project use?
+.pbix
+6  Explain the role of Power Query in Power BI.
+It is used to extract, clean, and transform data before analysis.
+7 Why would a business prefer Power BI over Excel for reporting?
+Because it offers interactive, real-time dashboards beyond Excel’s static reports.
+8  Describe one limitation of the free version of Power BI.
+You cannot share reports with others without a Pro license.
+9  What is a "published report" in Power BI Service?
+A Desktop report uploaded to the cloud Service for access and sharing.
+10 How does Power BI Mobile enhance accessibility?
+It allows real-time access to dashboards on mobile devices anywhere.
+11 Compare Power BI with Tableau—pros and cons.
+Power BI is cheaper and easier, Tableau is stronger in complex visualizations.
+12  Explain how Power BI integrates with Azure services.
+It connects directly to Azure SQL, Data Lake, and Synapse for analytics.
+13  What are "gateways" in Power BI, and when are they needed?
+Gateways connect on-premises data sources to Power BI Service.
+14  How would you convince a company to adopt Power BI? (ROI argument)
+It reduces costs and saves time by automating reporting and enabling faster decisions.
+15  What security features does Power BI offer for sensitive data?
+It provides Row-Level Security (RLS), encryption, and access control.
